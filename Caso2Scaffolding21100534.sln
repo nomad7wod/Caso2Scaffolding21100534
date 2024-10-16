@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caso2Scaffolding21100534", "Caso2Scaffolding21100534\Caso2Scaffolding21100534.csproj", "{52AF171F-D189-4EBF-A658-EA6CC4A6A2BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CASO3SinScaffolding21100534", "CASO3SinScaffolding21100534\CASO3SinScaffolding21100534.csproj", "{CD13045B-3151-4434-852D-90B8765FD7DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52AF171F-D189-4EBF-A658-EA6CC4A6A2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AF171F-D189-4EBF-A658-EA6CC4A6A2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AF171F-D189-4EBF-A658-EA6CC4A6A2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AF171F-D189-4EBF-A658-EA6CC4A6A2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD13045B-3151-4434-852D-90B8765FD7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD13045B-3151-4434-852D-90B8765FD7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD13045B-3151-4434-852D-90B8765FD7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD13045B-3151-4434-852D-90B8765FD7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18914904-76EF-4B39-A497-CD0D2426BBC2}
+	EndGlobalSection
+EndGlobal
